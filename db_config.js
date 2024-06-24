@@ -1,0 +1,10 @@
+module.exports={
+    user:"ivancode",
+    password:"123456",
+    server:"localhost",
+    database:"my_db",
+    options:{
+        trustServerCertificate:true
+    },
+    port:1433
+}
